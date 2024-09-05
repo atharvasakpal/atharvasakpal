@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Sakpal</h1>
-<h3 align="center">Pursuing Electronics Engineering with a strong interest in Machine Learning and Data Science</h3>
+<h3 align="center">Pursuing Electronics Engineering with a strong interest in Machine Learning and Web Development</h3>
 
-- 🌱 I’m currently learning **Deep Learning, Generative AI**
+- 🌱 I’m currently learning **Web Development, Deep Learning, Generative AI**
 
 - 📫 How to reach me **atharvasakpal14@gmail.com**
 
